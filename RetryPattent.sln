@@ -5,6 +5,11 @@ VisualStudioVersion = 25.0.1706.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetryPattent", "RetryPattent\RetryPattent.csproj", "{500AB30A-7137-4808-9951-E9763D07F157}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{273E4749-E864-4F79-AE12-888F66482ECF}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
